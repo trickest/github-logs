@@ -8,7 +8,7 @@ Did you know that exactly 16 GitHub users have the special `site_admin` status o
 If any of this catches your interest, check out our highlights report: [Uncovering OSINT Insights from 15TB of GitHub Logs](https://trickest.com/reports/uncovering-github-osint-insights/).
 
 <p align="center">
-  <a href="https://trickest.com/reports/uncovering-github-osint-insights/"><img align="center" src="uncovering-github-osint-insights.png" /></a>
+  <a href="https://trickest.com/reports/uncovering-github-osint-insights/"><img align="center" src="images/uncovering-github-osint-insights.png" /></a>
 </p>
 
 ## What's Inside?
