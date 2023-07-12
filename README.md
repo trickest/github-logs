@@ -7,6 +7,10 @@ Did you know that exactly 16 GitHub users have the special `site_admin` status o
 
 If any of this catches your interest, check out our highlights report: [Uncovering OSINT Insights from 15TB of GitHub Logs](https://trickest.com/reports/uncovering-github-osint-insights/).
 
+<p align="center">
+  <a href="https://trickest.com/reports/uncovering-github-osint-insights/"><img align="center" src="uncovering-github-osint-insights.png" /></a>
+</p>
+
 ## What's Inside?
 The repository consists of CSV files that contain the user and repository details organized into two main folders: `users` and `repos`. Inside each folder, you'll find a main folder that contains the complete dataset: `all_user_info` and `all_repo_info`. We've also included partial datasets for specific criteria like `users_site_admin`, `users_deleted`, `users_company`, `repos_archived`, `repos_deleted`, `and repos_sorted_stars`.
 
