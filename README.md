@@ -43,4 +43,4 @@ If you're looking for inspiration on how to use this data or if you're curious a
 ## Build your own workflows
 We believe in the value of tinkering; cookie-cutter solutions rarely cut it. Sign up for a [Trickest](https://trickest.com) demo to access the workflows we used, customize them, explore many more workflows, or even create your own from scratch!
 
-[<img src="images/banner.png" />](https://trickest-access.paperform.co/)
+[<img src="images/banner.png" />](https://trickest.io/auth/register)
